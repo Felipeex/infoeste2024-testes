@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { isApproved } from "../src/school.js";
+import { isApproved } from "../../src/school.js";
 
 describe("IsApproved function", () => {
   it("shoud be able to approved with 10 and 10 grade", () => {
